@@ -12,7 +12,7 @@ CRITICAL (blocks launch)
 CONTENT (needs real copy or data)
 ----------------------------------
 [x] Address: Bldg.11, corner Tramo, LeSignature Salon San Urbano, Naga Rd, Pulanglupa, Las Piñas, Metro Manila - Updated
-[ ] Reviews: Add actual Google reviews with ratings if available
+[x] Reviews: Added 3 actual Google reviews (Estmiler Hutchison, Merlyn Jimenez, Z Qore)
 [ ] Services pricing: Add actual service prices if available
 [ ] Stats: Verify/update "5+ Years Experience", "1000+ Happy Clients", "15+ Expert Services"
 
